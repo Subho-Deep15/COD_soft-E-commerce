@@ -1,8 +1,8 @@
-WEB DEVELOPMENT
+UI/UX DEVELOPMENT
 
-The project is prepared for learning the basics of php, bootstrap and css. 
+The project is prepared for creating an E-commerce website. 
 Thank You!
 
-Sonu Saha
-@thevirtualbuddy
-sonusaha110@gmail.com
+Subhodeep Kirtuniya
+@Subho-Deep15
+subhodeepkirtuniyadgpe5678@gmail.com
